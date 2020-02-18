@@ -1,4 +1,4 @@
-"""Part two"""
+"""Part two of assignment"""
 
 import os
 import sqlite3
